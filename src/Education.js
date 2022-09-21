@@ -16,7 +16,7 @@ export default function Education() {
               Thapar Institute of Technology
             </span>
             <span className="university-degree">BTech in Compter Science </span>
-            <span className="university-degree cgpa">CGPA : 9.23 (upto 4th Semester)</span>
+            <span className="university-degree cgpa">CGPA : 9.23 (uptill 4th Semester)</span>
           </div>
           <div>
             <span className="year-passedout">2020-2024</span>
