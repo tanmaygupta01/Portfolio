@@ -2,4 +2,4 @@
 
 ### Link to deployed Site
 
-https://polar-citadel-56012.herokuapp.com/
+https://tanmaygupta01.github.io/Portfolio/
